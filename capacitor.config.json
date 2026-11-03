@@ -1,0 +1,8 @@
+{
+  "appId": "com.sesdefteri.app",
+  "appName": "Ses Defteri",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
